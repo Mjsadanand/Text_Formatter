@@ -5,6 +5,6 @@ export default function Footer() {
     <div className="blank">
       This is Footer 
     </div>
-  );
+  ); 
 }
  

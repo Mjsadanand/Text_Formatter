@@ -13,7 +13,7 @@ export default function TextForm() {
     else{
       alert="Enter the text to convert";
     }
-    setAlert(alert);
+    setAlert(alert); 
 
   };
   const handleOfClick = () => {
